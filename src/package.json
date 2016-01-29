@@ -1,0 +1,13 @@
+{
+  "name": "zrender3",
+  "version": "3.0.0",
+  "description": "A lightweight canvas library which providing 2d draw for ECharts",
+  "main": "zrender.js",
+  "homepage": "http://ecomfe.github.io/zrender/",
+  "keywords": [
+  	"echarts",
+  	"zrender",
+  	"canvas",
+  	"draw"
+  ]
+}
